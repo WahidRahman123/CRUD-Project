@@ -94,4 +94,4 @@ crud-projects-using-php/
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements or find any bugs, please open an issue or submit a pull request.
+Contributions are welcome! If you have any suggestions, please open an issue or submit a pull request.
