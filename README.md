@@ -8,7 +8,6 @@ This project demonstrates the implementation of basic CRUD (Create, Read, Update
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -71,26 +70,6 @@ To run this project, you need the following:
 2. **Read**: The homepage displays a list of all records from the database.
 3. **Update**: Click on the "Edit" button next to a record, modify the details, and submit to update the record.
 4. **Delete**: Click on the "Delete" button next to a record to remove it from the database.
-
-## Project Structure
-```
-CRUD-Project/
-│  
-├── config/
-│   └── config.php       # Database configuration
-│
-├── public/
-│   ├── index.php        # Homepage displaying all records
-│   ├── create.php       # Page for creating new records
-│   ├── update.php       # Page for updating existing records
-│   └── delete.php       # Script for deleting records
-│
-├── sql/
-│   └── pData.sql      # SQL file to set up the database
-│
-└── README.md            # Project documentation
-```
-
 
 ## Contributing
 
