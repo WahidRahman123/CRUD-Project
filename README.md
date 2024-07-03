@@ -74,7 +74,7 @@ To run this project, you need the following:
 
 ## Project Structure
 ```
-crud-projects-using-php/
+CRUD-Project/
 │  
 ├── config/
 │   └── config.php       # Database configuration
