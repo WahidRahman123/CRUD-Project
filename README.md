@@ -54,7 +54,7 @@ To run this project, you need the following:
 4. Update the database configuration in `config.php`:
     ```php
     define('DB_SERVER', 'localhost');
-    define('DB_USERNAME', '');
+    define('DB_USERNAME', 'root');
     define('DB_PASSWORD', '');
     define('DB_NAME', 'pData');
     ```
